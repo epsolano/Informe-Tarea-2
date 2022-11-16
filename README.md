@@ -40,7 +40,19 @@
 
 **La relacion de corriente, voltaje y resistencia**
 **![image](https://user-images.githubusercontent.com/116835707/202079264-20700d47-8e34-419f-8917-69361fc3b84d.png)**
+**![image](https://user-images.githubusercontent.com/116835707/202079366-6d57dd90-b561-40c6-8b37-30a67eac11d9.png)**
 
+**![image](https://user-images.githubusercontent.com/116835707/202079416-c6c8b30d-2ad7-4848-a27a-bcd1b919face.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/202079491-53fe67db-5342-4f03-b03a-37827a19af4d.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/202079536-0ea571a6-e34f-4543-91c5-44d5390b2b03.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/202079608-91bed1f5-6f9b-4628-b31b-a5c5ba023329.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/202079694-35c3e5cb-5f32-4692-96a1-c802a06095a1.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/202079761-49be6149-0e48-4d44-ac8b-77e56d0beb0d.png)**
 
 
 **SECCIÓN 3-2**
