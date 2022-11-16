@@ -39,6 +39,8 @@
 **SECCIÓN3-1**
 
 **La relacion de corriente, voltaje y resistencia**
+**![image](https://user-images.githubusercontent.com/116835707/202079264-20700d47-8e34-419f-8917-69361fc3b84d.png)**
+
 
 
 **SECCIÓN 3-2**
@@ -78,7 +80,7 @@
 
 **SECCIÓN 4-4**
 
-**Conversión de energía y caída de voltaje en una resistencia **
+**Conversión de energía y caída de voltaje en una resistencia**
 
 
 **SECCIÓN 4-5**
