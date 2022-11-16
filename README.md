@@ -34,56 +34,56 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-**CAPÍTULO 1**
+**CAPÍTULO 3**
 
-**SECCIÓN 1-2**
+**SECCIÓN3-1**
 
-**Notación científica**
-
-
-**SECCIÓN 1-3**
-
-**Notación de ingeniería y prefijos métricos**
+**La relacion de corriente, voltaje y resistencia**
 
 
+**SECCIÓN 3-2**
 
-**SECCÍON 1-4**
-
-**Conversiones de unidades métricas**
-
-
-**CAPÍTULO 2**
-
-**SECCIÓN 2-2**
-
-**Carga eléctrica**
+**Cálculo de la corriente**
 
 
-**SECCIÓN 2-3**
 
-**Voltaje, corriente y resisitencia**
+**SECCIÓN 3-3**
 
+**Cálculo de voltaje**
 
-**SECCIÓN 2-4**
+**SECCIÓN 3-4**
 
-**Fuentes de voltaje y de corriente**
+**Cálculo de resistencia**
 
+**SECCIÓN 3-5**
 
-**SECCIÓN 2-5**
+**Introducción a la localización de fallas**
 
-**Resistores**
+**CAPÍTULO 4**
 
+**SECCIÓN 4-1**
 
-**SECCIÓN 2-6**
-
-**El circuito eléctrico**
-
-
-**SECCIÓN 2-7**
-
-**Mediciones de circuito básicas**
+**Energía y potencia**
 
 
+**SECCIÓN 4-2**
+
+**Potencia de un circuito eléctrico**
+
+
+**SECCIÓN 4-3**
+
+**Clasificaciones de potencia en resistores**
+
+
+**SECCIÓN 4-4**
+
+**Conversión de energía y caída de voltaje en una resistencia **
+
+
+**SECCIÓN 4-5**
+
+**Fuentes de potencia**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. VIDEO**
