@@ -58,10 +58,15 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/202079608-91bed1f5-6f9b-4628-b31b-a5c5ba023329.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/202484884-8026fa71-43d1-41a8-a8cf-dd3db44ee74c.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/202079694-35c3e5cb-5f32-4692-96a1-c802a06095a1.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/202484969-0df4a768-7e6a-4fc0-835b-8b8b4fcdbead.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/202079761-49be6149-0e48-4d44-ac8b-77e56d0beb0d.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/202485116-0610f958-e681-4213-be12-9f539c4fd9fd.png)
 
 **SECCIÓN 3-2**
 
