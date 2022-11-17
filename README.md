@@ -61,6 +61,14 @@ De donde se establece la siguiente ecuación: ![image](https://user-images.githu
  ![image](https://user-images.githubusercontent.com/116835707/202499908-0e9eff59-fe7f-43ef-97d2-ec6227f2cfc5.png)
 ![image](https://user-images.githubusercontent.com/116835707/202499977-28dbd094-9d01-47c4-84ee-ace83b8b4bb8.png)
 
+**Localizacion de fallas**
+Existen pasos para hacer una localización de fallas efectiva los cuales son:
+**Análisis** Puede comenzar buscando las respuestas a ciertasa preguntas como ¿Alguna vez ha funcionado el circuito?, entre otras preguntas que nos ayudaran a tener una idea del problema.
+**Planificación** Una vez realizado el análisis se procede a planificar un plan lógico de ataque que nos ayude a identificar la falla, una planificacion adecuada no puede ahorrar mucho tiempo, pero poder hacerlo es necesario saber como funciona un circuito.
+**Medición** Este paso consiste en realizar mediciones para ir reduciendo el campo de fallas escogiendo puntos estrategiacmente que nos ayuden a identificar de una manera mas rápida la falla.
+
+De estos pasos nos lleva a la deducción del método conocido como división a la mitad la cuál consiste en localizar la interrupción midiendo la resistencia con el multímetro, al aplicar el razonamiento lógico se decide medir la resistencia de cada una de las mitades, siguiendo así hasta encontrar el tramo que esta falloso, está tecnica nos puede ayudar ahorrar mucho tiempo en la localización de fallas.
+
 
 **SECCIÓN3-1**
 
