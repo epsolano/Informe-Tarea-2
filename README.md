@@ -127,6 +127,8 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/202080878-101482f7-5ba7-43ee-b4d1-0a9c7e2cb711.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/202485507-2ea224d0-7bd8-42f0-a1a1-6d36aff7c6bc.png)
+
 **Localización de fallas con Multisim**
 
 **![image](https://user-images.githubusercontent.com/116835707/202081050-2d22edb9-0823-4357-94f5-88b06853634e.png)**
