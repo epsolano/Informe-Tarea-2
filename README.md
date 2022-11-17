@@ -15,17 +15,21 @@
 
 **1.1  OBJETIVO GENERAL**
 
-*  
+*  Entender y explicar las diferentes leyes que involucran los diferentes terminos como voltaje, resistencia, corriente, etc, que estan relacionadaos con los circuitos y aprender a calcular sus valores.
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
-*
+* Explicar la ley de Ohm yy como se relaciona con los terminos voltaje, corriente, resistencia.
 
-* 
+* Aprender a calcular voltaje, resistencia y corriente de un circuito.
 
-* 
+* Aprender a localizar una falla en un circuito.
 
-*  
+* Definir los términos energía, potencia  y aprender a calcularlos.
+
+* Aprender analizar las fuentes de potencia y sus características.
+
+* Aprender a seleccionar adecuadamente resistores considerando la potencia. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. MARCO TEORICO**
@@ -35,6 +39,28 @@
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 **CAPÍTULO 3**
+
+La ley de ohm establece lo siguiente:
+* La corriente y el voltaje son linealmente proporcionales, es decir que si una de las cantidades se incrementa o disminuye en cierto porcentaje la otra se incrementara o dismiuira en el mismo porcentaje.
+
+ ![image](https://user-images.githubusercontent.com/116835707/202496943-512723b1-3bf9-4cb1-95e2-f34640b5823b.png)
+* La corriente y la resistencia son inversamente proporcionales, es decir cuando la resistencia se reduce, la corriente se incrementa, y cuando la resistencia se incrementa la corriente se reduce.
+
+![image](https://user-images.githubusercontent.com/116835707/202497619-3dfcaecd-9a97-44e8-832b-a4162453c691.png)
+
+De donde se establece la siguiente ecuación: ![image](https://user-images.githubusercontent.com/116835707/202495846-1046aac1-6eea-46fc-87db-d879bf1be754.png)
+ A partir de esta ecuación se obtienen mediantes despejes las demás formulas que nos sirviran para calcular Voltaje, Resistencia y Corriente.
+ 
+*Fórmula para calcular la resistencia:*
+![image](https://user-images.githubusercontent.com/116835707/202499540-e305ebd1-8ec4-4b2b-acb8-af537758b7f2.png)
+
+*Fórmula para calcular la corriente:* 
+![image](https://user-images.githubusercontent.com/116835707/202499450-10b238e0-b9d8-476b-97d9-7af8cbf1d223.png)
+
+*Fórmula para calcular el voltaje:*
+ ![image](https://user-images.githubusercontent.com/116835707/202499908-0e9eff59-fe7f-43ef-97d2-ec6227f2cfc5.png)
+![image](https://user-images.githubusercontent.com/116835707/202499977-28dbd094-9d01-47c4-84ee-ace83b8b4bb8.png)
+
 
 **SECCIÓN3-1**
 
