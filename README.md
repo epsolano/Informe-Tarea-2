@@ -34,12 +34,6 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. MARCO TEORICO**
 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
-
-**CAPÍTULO 3**
-
 La ley de ohm establece lo siguiente:
 * La corriente y el voltaje son linealmente proporcionales, es decir que si una de las cantidades se incrementa o disminuye en cierto porcentaje la otra se incrementara o dismiuira en el mismo porcentaje.
 
@@ -69,6 +63,10 @@ Existen pasos para hacer una localización de fallas efectiva los cuales son:
 
 De estos pasos nos lleva a la deducción del método conocido como división a la mitad la cuál consiste en localizar la interrupción midiendo la resistencia con el multímetro, al aplicar el razonamiento lógico se decide medir la resistencia de cada una de las mitades, siguiendo así hasta encontrar el tramo que esta falloso, está tecnica nos puede ayudar ahorrar mucho tiempo en la localización de fallas.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+**CAPÍTULO 3**
 
 **SECCIÓN3-1**
 
