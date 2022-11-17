@@ -197,7 +197,7 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/202082023-5374b440-3e70-496a-92cb-c0dc4b518676.png)**
 
-![image](https://user-images.githubusercontent.com/116835707/202480643-eb26075a-89ad-4569-8312-55511aa1f733.png)
+![image](https://user-images.githubusercontent.com/116835707/202481054-27eae254-1699-4242-924a-ce3d986901d8.png)
 
 **SECCIÓN 4-4**
 
@@ -208,6 +208,8 @@
 **Fuentes de potencia**
 
 **![image](https://user-images.githubusercontent.com/116835707/202082107-3129472c-fd16-4d9e-bdc6-014c2b740c60.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/202480882-7c1b1793-0fe0-4a0a-9123-83828ff5cf1c.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/202082159-d4d6ff21-b2cf-43d5-a3f1-2c78df729703.png)**
 
