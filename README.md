@@ -137,19 +137,35 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/202081232-52d01f6c-1c7b-4611-8c8f-fefe205a3f70.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/202479027-87067fea-c141-4c18-bf84-a4100410000f.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/202081277-c24e39f7-930a-4c10-96ef-2355d0390ec3.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/202479207-6d4c9f40-4910-4e7e-8419-168091462c0f.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/202081327-434ba01b-1cb5-4376-a725-a31e83c14e9d.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/202479392-bf30aba5-afb0-49e6-bafb-e9941e83d023.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/202081372-c8ca46dc-dac3-44d1-876d-749678ccb2c9.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/202479484-05a379c9-c1f5-49e5-bd9b-4e231d310d7a.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/202081412-7fead66a-3aef-4cee-ad7c-877e57602b92.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/202479568-ba7b2db1-59e7-4d93-8bda-d61863bef147.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/202081450-0d967e0b-4639-4c5d-9a2f-f4135b15c20e.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/202479739-6b4e14c4-ae28-4501-b406-a11283fd49b9.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/202081511-d7758bed-d9a5-459e-a4dc-7143b39f4474.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/202479812-3075ef6d-40d6-46f5-8d9a-6b97d0b617fc.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/202081562-434dd60d-66ca-432a-9549-9e95a7d236a9.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/202479904-fcb9d891-70e2-466e-a81b-88b3411b824c.png)
 
 **SECCIÓN 4-2**
 
@@ -157,19 +173,31 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/202081650-d789e863-ac56-4e9d-9ba5-07422fdc8ca4.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/202480091-8ff45a10-a20f-459b-8778-aa7c446ee1cc.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/202081671-5a947333-a5d8-4182-b11f-bc299adee7a7.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/202480205-73a8b5f6-6c81-4869-b125-bc310f8bf377.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/202081720-e7531ad5-1bc4-4779-b61a-3c6f746beb36.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/202480326-f2f095d7-b0a6-49a1-b4d8-55f17858428d.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/202081804-7e9a55a8-0be0-4c82-944f-2a9351927b71.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/202480446-68c08fbc-89fb-47ff-a79d-0481a0de6d38.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/202081861-60cda678-6567-4705-bb2f-9f62bde0e586.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/202480534-de9c543a-d41b-428d-99ab-ecfe296fbe08.png)
 
 **SECCIÓN 4-3**
 
 **Clasificaciones de potencia en resistores**
 
 **![image](https://user-images.githubusercontent.com/116835707/202082023-5374b440-3e70-496a-92cb-c0dc4b518676.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/202480643-eb26075a-89ad-4569-8312-55511aa1f733.png)
 
 **SECCIÓN 4-4**
 
