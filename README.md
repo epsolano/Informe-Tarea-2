@@ -71,6 +71,7 @@ De estos pasos nos lleva a la deducción del método conocido como división a l
 **SECCIÓN3-1**
 
 **La relacion de corriente, voltaje y resistencia**
+
 **![image](https://user-images.githubusercontent.com/116835707/202079264-20700d47-8e34-419f-8917-69361fc3b84d.png)**
 **![image](https://user-images.githubusercontent.com/116835707/202079896-6e7d97b4-9f13-418b-9b7f-1c9091b71b35.png)**
 
