@@ -280,8 +280,10 @@ De estos pasos nos lleva a la deducción del método conocido como división a l
 * La ley de Ohm establece una relación de voltaje, corriente y rsistencia, establece que el voltaje y la corriente son linealmente proporcionlas, también establece que la corriente es inversamente proporcional a la resistencia.
 * Para la localizacio de fallas se utiliza el método APM, el cuál consiste en realizar los siguientes pasos análisis, planificación y medición, también existe otro método llamado división a la mitad.
 * Una buena estrategia para la localización de fallas, nos puede ayudar a ahorrar mucho tiempo.
-* La potencia nominal en Watts de un resistor determina la potencia máxima que puede manejar con seguridad.
-* 
+* La potencia nominal en Watts de un resistor determina la potencia máxima que puede manejar con seguridad y no esta relacionada con el valor de la resistencia.
+* Un kilowatt-hora es igual a mil watts utilizados durante una hora, o cuaquier otra combinación de watts y horas que tenga un producto de uno.
+* Un circuito con alta eficiencia sufre un porcentaje de pérdida de potencia más pequeño que un circuito con eficiencia más baja.
+* Una batería es un tipo de fuente de potencia que convierte energía quimica en energía eléctrica y su capacidad se mide en amperes-hora, el cual es un ampere utilizado durante una hora, o cualquier otra combinación de amperes y horas cuyo producto sea uno. 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
