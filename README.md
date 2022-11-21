@@ -71,6 +71,7 @@ De estos pasos nos lleva a la deducción del método conocido como división a l
  
 **Potencia nominal en resistores**
 Es la cantidad máxima de potencia que un resistor puede disipar sin que sufra daños por calentamiento excesivo; y cuando se uiliza un resistor en un circuito, su potencia nominal debe ser mayor que la potencia máxima que debería manejar.
+
 **Eficiencia de una fuente de potencia**
 Es la relación de la potencia de salida suministrada a una carga respecto a la potencia de entrada al circuito.
 
@@ -152,6 +153,7 @@ también se tiene que:
 
 **![image](https://user-images.githubusercontent.com/116835707/202080437-c695c3c5-df7f-436a-8593-d9dda9d261e7.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/202959962-17372aee-6cba-4329-b5e4-a262e7856159.png)
 
 **SECCIÓN 3-4**
 
@@ -170,6 +172,9 @@ también se tiene que:
 ![image](https://user-images.githubusercontent.com/116835707/202478771-3ffe0ba8-7a9a-45e0-ae70-1ee73275e502.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/202080705-bf7ce41a-a37f-485f-b687-c79627596d88.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/202959422-d9c447f0-d17b-439c-81ab-1b16693b0110.png)
+
 
 **SECCIÓN 3-5**
 
@@ -284,6 +289,8 @@ también se tiene que:
 ![image](https://user-images.githubusercontent.com/116835707/202490394-cdc7570b-5fa5-44ba-a103-602bcc0824a3.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/202082289-53aab5b1-3e06-443b-b18d-7d8f322f1f6e.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/202958550-043b2b38-f435-4ac0-a03c-6da87997920d.png)
 
 **Localización de fallas y análisis con archivos Multisim**
 
