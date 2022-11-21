@@ -15,11 +15,11 @@
 
 **1.1  OBJETIVO GENERAL**
 
-*  Entender y explicar las diferentes leyes que involucran los diferentes terminos como voltaje, resistencia, corriente, etc, que estan relacionadaos con los circuitos y aprender a calcular sus valores.
+*  Entender y explicar las diferentes leyes que involucran los diferentes términos como voltaje, resistencia, corriente, etc, que estan relacionadaos con los circuitos y aprender a calcular sus valores.
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
-* Explicar la ley de Ohm yy como se relaciona con los terminos voltaje, corriente, resistencia.
+* Explicar la ley de Ohm y como se relaciona con los términos voltaje, corriente, resistencia.
 
 * Aprender a calcular voltaje, resistencia y corriente de un circuito.
 
@@ -57,8 +57,8 @@ De donde se establece la siguiente ecuación: ![image](https://user-images.githu
 
 **Localizacion de fallas**
 Existen pasos para hacer una localización de fallas efectiva los cuales son:
-**Análisis** Puede comenzar buscando las respuestas a ciertasa preguntas como ¿Alguna vez ha funcionado el circuito?, entre otras preguntas que nos ayudaran a tener una idea del problema.
-**Planificación** Una vez realizado el análisis se procede a planificar un plan lógico de ataque que nos ayude a identificar la falla, una planificacion adecuada no puede ahorrar mucho tiempo, pero poder hacerlo es necesario saber como funciona un circuito.
+**Análisis** Puede comenzar buscando las respuestas a ciertas preguntas como: ¿Alguna vez ha funcionado el circuito?, entre otras preguntas que nos ayudaran a tener una idea del problema.
+**Planificación** Una vez realizado el análisis se procede a planificar un plan lógico de ataque que nos ayude a identificar la falla, una planificacion adecuada nos puede ahorrar mucho tiempo, pero  para poder hacerlo es necesario saber como funciona un circuito.
 **Medición** Este paso consiste en realizar mediciones para ir reduciendo el campo de fallas escogiendo puntos estrategiacmente que nos ayuden a identificar de una manera mas rápida la falla.
 
 De estos pasos nos lleva a la deducción del método conocido como división a la mitad la cuál consiste en localizar la interrupción midiendo la resistencia con el multímetro, al aplicar el razonamiento lógico se decide medir la resistencia de cada una de las mitades, siguiendo así hasta encontrar el tramo que esta falloso, está tecnica nos puede ayudar ahorrar mucho tiempo en la localización de fallas.
