@@ -101,7 +101,7 @@ también se tiene que:
 
 **![image](https://user-images.githubusercontent.com/116835707/202079491-53fe67db-5342-4f03-b03a-37827a19af4d.png)**
 
-![image](https://user-images.githubusercontent.com/116835707/202960636-ccac63e8-f05c-463e-80dd-b43b0f3cb243.png)
+![image](https://user-images.githubusercontent.com/116835707/202965627-7d2451dc-e13a-4315-9760-1152f7273b75.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/202079536-0ea571a6-e34f-4543-91c5-44d5390b2b03.png)**
 
