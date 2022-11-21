@@ -277,11 +277,14 @@ De estos pasos nos lleva a la deducción del método conocido como división a l
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **6. CONCLUSIONES**
 
-*
-* 
-* 
-* 
+* La ley de Ohm establece una relación de voltaje, corriente y rsistencia, establece que el voltaje y la corriente son linealmente proporcionlas, también establece que la corriente es inversamente proporcional a la resistencia.
+* Para la localizacio de fallas se utiliza el método APM, el cuál consiste en realizar los siguientes pasos análisis, planificación y medición, también existe otro método llamado división a la mitad.
+* Una buena estrategia para la localización de fallas, nos puede ayudar a ahorrar mucho tiempo.
+* La potencia nominal en Watts de un resistor determina la potencia máxima que puede manejar con seguridad.
 * 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
+
+* Floyd, Thomas.L. (2007). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 3 y 4). Prentice Hall
+ 
