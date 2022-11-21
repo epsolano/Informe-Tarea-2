@@ -63,6 +63,11 @@ Existen pasos para hacer una localización de fallas efectiva los cuales son:
 
 De estos pasos nos lleva a la deducción del método conocido como división a la mitad la cuál consiste en localizar la interrupción midiendo la resistencia con el multímetro, al aplicar el razonamiento lógico se decide medir la resistencia de cada una de las mitades, siguiendo así hasta encontrar el tramo que esta falloso, está tecnica nos puede ayudar ahorrar mucho tiempo en la localización de fallas.
 
+**Capítulo 4 **
+
+![image](https://user-images.githubusercontent.com/116835707/202954031-2f8cb221-1677-4a77-ba50-fcd223ab69cd.png)
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
