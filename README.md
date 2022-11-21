@@ -166,8 +166,11 @@ De estos pasos nos lleva a la deducción del método conocido como división a l
 
 **![image](https://user-images.githubusercontent.com/116835707/202081050-2d22edb9-0823-4357-94f5-88b06853634e.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/202948921-77fb2169-3d65-418d-9056-20e68075ef75.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/202081112-ffc7352d-559c-47ad-8e03-3f22ff2950de.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/202949708-557ef465-4a36-43cd-a729-cd17feaf6091.png)
 
 **CAPÍTULO 4**
 
@@ -268,6 +271,9 @@ De estos pasos nos lleva a la deducción del método conocido como división a l
 **Localización de fallas y análisis con archivos Multisim**
 
 **![image](https://user-images.githubusercontent.com/116835707/202082455-ad245240-b84d-4d49-8479-e209bb036e78.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/202946882-be70d4d1-7b29-47e1-a1ee-47568462f770.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. VIDEO**
