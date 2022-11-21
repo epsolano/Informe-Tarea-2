@@ -67,9 +67,18 @@ De estos pasos nos lleva a la deducción del método conocido como división a l
 
 ![image](https://user-images.githubusercontent.com/116835707/202954031-2f8cb221-1677-4a77-ba50-fcd223ab69cd.png)
  
- La potencia de un circuito se calcula con la formula P=I^2R
+ ![image](https://user-images.githubusercontent.com/116835707/202955481-dc8c01ce-890c-4767-b98f-21f2ebf58cb1.png)
  
- 
+**Potencia nominal en resistores**
+Es la cantidad máxima de potencia que un resistor puede disipar sin que sufra daños por calentamiento excesivo; y cuando se uiliza un resistor en un circuito, su potencia nominal debe ser mayor que la potencia máxima que debería manejar.
+**Eficiencia de una fuente de potencia**
+Es la relación de la potencia de salida suministrada a una carga respecto a la potencia de entrada al circuito.
+
+![image](https://user-images.githubusercontent.com/116835707/202957483-216fc371-ec5d-4cd6-a964-2f8e33c8a403.png)
+
+también se tiene que:
+
+![image](https://user-images.githubusercontent.com/116835707/202957632-259e59f2-7bc5-49bb-8ac2-4ba0f89a534c.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
