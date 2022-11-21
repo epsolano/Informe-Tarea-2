@@ -66,7 +66,10 @@ De estos pasos nos lleva a la deducción del método conocido como división a l
 **Capítulo 4 **
 
 ![image](https://user-images.githubusercontent.com/116835707/202954031-2f8cb221-1677-4a77-ba50-fcd223ab69cd.png)
-
+ 
+ La potencia de un circuito se calcula con la formula P=I^2R
+ 
+ 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
